@@ -1,7 +1,7 @@
 # Todo-list
 A simple Todo-List web app created as a learning project.
 
-![todolist](1.png)
+![todolist](src/assets/1.png)
 
 
 ## Table of contents
