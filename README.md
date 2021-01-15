@@ -1,14 +1,27 @@
-# Webpack Starter
+# Todo-list
+A simple Todo-List web app created as a learning project.
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+![todolist](1.png)
 
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
 
-Y para construir el build, recueren:
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+A simple Todo-List created as a learning project.
+Live version is available here: https://mygeone.github.io/todo-list/
+	
+## Technologies
+Project is created with:
+* NodeJS: 10.19
+
+## Setup
+To run this project, install it locally using npm:
+
 ```
-npm run build
+$ npm install
+$ npm run build
+$ npm start
 ```
