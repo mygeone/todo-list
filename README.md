@@ -1,23 +1,23 @@
-# Todo-list
+# ✔️ Todo-list
 A simple Todo-List web app created as a learning project.
 
 ![todolist](src/assets/1.png)
 
 
-## Table of contents
+## Table of contents 📋
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
+## General info 📖
 A simple Todo-List created as a learning project.<br>
 Live version is available [here](https://mygeone.github.io/todo-list/)
 	
-## Technologies
+## Technologies 🛠
 This project is created with:
 * NodeJS: 10.19
 
-## Setup
+## Setup 🚀
 To run this project, install it locally using npm:
 
 ```
