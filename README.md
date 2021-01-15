@@ -1,3 +1,4 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2298f43a925643cf89192d8da095369d)](https://www.codacy.com/gh/mygeone/todo-list/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mygeone/todo-list&amp;utm_campaign=Badge_Grade)
 # ✔️ Todo-list
 A simple Todo-List web app created as a learning project.
 
